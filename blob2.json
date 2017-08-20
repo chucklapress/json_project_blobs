@@ -26,7 +26,14 @@
     "updateDate": "2017-08-20T00:04:00.0Z",
     "titleText": "Closing ad",
     "mainText": "closing ad",
-    "streamUrl": "https://s3.amazonaws.com/closead/Bev+Alexa+line4+E2.mp3",
+    "streamUrl": "https://s3.amazonaws.com/closead/audio33.mp3",
     "redirectionUrl": "https://developer.amazon.com/public/community/blog"
+  },
+  {
+    "uid": "urn:uuid:1335c695-cfb8-4ebb-abbd-80da344efa6h",
+    "updateDate": "2017-08-20T00:04:01.0Z",
+    "titleText": "End text",
+    "mainText": "Thanks for checking in be sure to get your top news daily, Here from the Greenville News.",
+    "redirectionUrl": "https://www.amazon.com"
   }
 ]
