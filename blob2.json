@@ -1,0 +1,32 @@
+[
+  {
+    "uid": "urn:uuid:1335c695-cfb8-4ebb-abbd-80da344efa6e",
+    "updateDate": "2017-08-19T22:34:51.0Z",
+    "titleText": "Opening ad",
+    "mainText": "opening ad",
+    "streamUrl": "https://s3.amazonaws.com/openad/Bev+Alexa+line1+E2.mp3",
+    "redirectionUrl": "https://developer.amazon.com/public/community/blog"
+  },
+  {
+    "uid": "urn:uuid:1335c695-cfb8-4ebb-abbd-80da344efa6f",
+    "updateDate": "2017-08-20T00:02:00.0Z",
+    "titleText": "From the Greenville News",
+    "mainText": "Todays top story, Official: Solar eclipse traffic headaches could extend into Wednesday unknown, Hubbard told County Council on Tuesday. Hubbard said the county is aware of at least 46 eclipse-related events on Monday. Those events, he said, have attendance estimates anywhere from 300 to 16,000 people. As of earlier this week, hotels in the county were at 74 percent capacity, while Saturday night reached an 84 percent capacity. Hotels are completely full on Sunday night, he said. Hubbard noted there are some available homes and rooms on sites such as home-sharing website Airbnb.though, it could cost visitors a pretty penny. We've got people paying $25,000 for four-day rentals in peoples homes right now to see this event, he said. Greenville County On Monday, officials will split the county into three sections to better patrol incidents. The northern command center will be at Duncan Chapel Fire District, Station 2; the central command will be at TD Center; and the southern command post will be located at the South Greenville Fire Department. All three posts will report back to the county emergency operations center. The Greenville County Sheriff's Office will also deploy more than 300 deputies on the road Monday",
+    "redirectionUrl": "https://www.amazon.com"
+  },
+  {
+    "uid": "urn:uuid:1335c695-cfb8-4ebb-abbd-80da344efa6g",
+    "updateDate": "2017-08-20T00:03:00.0Z",
+    "titleText": "From the Sports desk",
+    "mainText": "Todays top sports story, It will come as no shock that the National champion Clemson Tigers will open the regular college foot ball season against Ball State, Clemson's coach is hopeful that the team will be able to compete with this college powerhouse.",
+    "redirectionUrl": "https://www.amazon.com"
+  },
+  {
+    "uid": "urn:uuid:1335c695-cfb8-4ebb-abbd-80da344efa6bh",
+    "updateDate": "2017-08-20T00:04:00.0Z",
+    "titleText": "Closing ad",
+    "mainText": "closing ad",
+    "streamUrl": "https://s3.amazonaws.com/closead/Bev+Alexa+line4+E2.mp3",
+    "redirectionUrl": "https://developer.amazon.com/public/community/blog"
+  }
+]

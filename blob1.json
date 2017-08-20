@@ -1,0 +1,32 @@
+[
+  {
+    "uid": "urn:uuid:1335c695-cfb8-4ebb-abbd-80da344efa6b",
+    "updateDate": "2017-08-19T22:34:51.0Z",
+    "titleText": "Amazon Developer Blog, week in review May 23rd",
+    "mainText": "opening ad",
+    "streamUrl": "https://s3.amazonaws.com/openad/Bev+Alexa+line1+E2.mp3",
+    "redirectionUrl": "https://developer.amazon.com/public/community/blog"
+  },
+  {
+    "uid": "EXAMPLE_CHANNEL_MULTI_ITEM_JSON_TTS_2",
+    "updateDate": "2017-08-20T00:02:00.0Z",
+    "titleText": "Multi Item JSON (TTS)",
+    "mainText": "This channel has multiple TTS JSON items. This is the second item.",
+    "redirectionUrl": "https://www.amazon.com"
+  },
+  {
+    "uid": "EXAMPLE_CHANNEL_MULTI_ITEM_JSON_TTS_3",
+    "updateDate": "2017-08-20T00:03:00.0Z",
+    "titleText": "Multi Item JSON (TTS)",
+    "mainText": "This channel has multiple TTS JSON items. This is the third item.",
+    "redirectionUrl": "https://www.amazon.com"
+  },
+  {
+    "uid": "urn:uuid:1335c695-cfb8-4ebb-abbd-80da344efa6d",
+    "updateDate": "2017-08-20T00:04:00.0Z",
+    "titleText": "Closing ad",
+    "mainText": "closing ad",
+    "streamUrl": "https://s3.amazonaws.com/closead/Bev+Alexa+line4+E2.mp3",
+    "redirectionUrl": "https://developer.amazon.com/public/community/blog"
+  }
+]
