@@ -4,7 +4,7 @@
     "updateDate": "2017-08-19T00:34:51.0Z",
     "titleText": "Opening ad",
     "mainText": "opening ad",
-    "streamUrl": "https://s3.amazonaws.com/openad/Bev+Alexa+line1+E2.mp3",
+    "streamUrl": "https://s3.amazonaws.com/audiosecondapp/Bev+Alexa+line2+E2.mp3",
     "redirectionUrl": "https://developer.amazon.com/public/community/blog"
   },
   {
@@ -16,10 +16,10 @@
   },
   {
     "uid": "urn:uuid:1398c695-cfb8-4ebb-abbd-80da344efa6bh",
-    "updateDate": "2017-08-21T00:00:00.0Z",
+    "updateDate": "2017-08-21T00:01:00.0Z",
     "titleText": "Closing ad",
     "mainText": "closing ad",
-    "streamUrl": "https://s3.amazonaws.com/closead/audio33.mp3",
+    "streamUrl": "https://s3.amazonaws.com/audiosecondapp/Bev+Alexa+line4+E2.mp3",
     "redirectionUrl": "https://developer.amazon.com/public/community/blog"
   }
 ]
