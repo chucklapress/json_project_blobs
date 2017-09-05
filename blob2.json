@@ -1,22 +1,35 @@
 [
   {
-    "uid": "urn:uuid:1335c695-cfb8-4ebb-abbd-80da344efa6e",
-    "updateDate": "2017-08-19T00:34:51.0Z",
-    "titleText": "Opening ad",
-    "mainText": "opening ad",
-    "streamUrl": "https://s3.amazonaws.com/openad/Bev+Alexa+line1+E2.mp3",
-    "redirectionUrl": "https://developer.amazon.com/public/community/blog"
-  },
-  {
     "uid": "urn:uuid:1335c695-cfb8-4ebb-abbd-80da344efb7d",
     "updateDate": "2017-08-21T00:00:00.0Z",
     "titleText": "from the greenville news",
-    "mainText": "Todays lead story: The eclipse in Greenville has put and incredible economic boost to many local merchants! In business, the current rate of restaurant growth in the downtown Greenville area is likely to mean more businesses earning less, read about it in the Business section of todays paper! In sports today: Local phenome Summer LaPress from Saint Mary’s School is offered a full scholarship to UNC at Chapel hill! In entertainment news, big broadway shows coming, he Peace Center announces its fall lineup, see what the line up is in the Entertainment section today! Be sure to check todays Obituaries, just to check if you’re still around!",
+    "mainText": "Eclipse brings festive darkness as Upstate celebrates once-in-a-lifetime event, It was a moment of sublime intimacy, where the new moon’s total eclipse of the sun brought the masses into communion with the grandeur of the universe!",
+    "redirectionUrl": "https://chuck-portfolio.herokuapp.com/"
+  },
+  {
+    "uid": "urn:uuid:1335c695-cfb8-4ebb-abbd-80da344efb7e",
+    "updateDate": "2017-08-21T01:01:00.0Z",
+    "titleText": "from the greenville news",
+    "mainText": " Thousands of people came to South Carolina on Monday to get the show of a lifetime, They were not disappointed, We’re here from Roswell, Georgia, for the eclipse and to show our 10-year-old son Clemson because my husband wants him to go there, said Devora Rosenberg of Roswell, Georgia!.",
+    "redirectionUrl": "https://chuck-portfolio.herokuapp.com/"
+  },
+  {
+    "uid": "urn:uuid:1335c695-cfb8-4ebb-abbd-80da344efb7j",
+    "updateDate": "2017-08-21T02:02:00.0Z",
+    "titleText": "from the greenville news",
+    "mainText": " Six couples married in mass wedding at Blue Jar Barn in Belton just moments before eclipse totality! . ",
+    "redirectionUrl": "https://chuck-portfolio.herokuapp.com/"
+  },
+  {
+    "uid": "urn:uuid:1335c695-cfb8-4ebb-abbd-80da344efb7w",
+    "updateDate": "2017-08-21T03:03:00.0Z",
+    "titleText": "from the greenville news",
+    "mainText": " Greenville public schools calendar at a glance, As school begins today for Greenville County students some key dates from the 2017-18 calendar!",
     "redirectionUrl": "https://chuck-portfolio.herokuapp.com/"
   },
   {
     "uid": "urn:uuid:1398c695-cfb8-4ebb-abbd-80da344efa6bh",
-    "updateDate": "2017-08-21T00:00:00.0Z",
+    "updateDate": "2017-08-21T02:00:00.0Z",
     "titleText": "Closing ad",
     "mainText": "closing ad",
     "streamUrl": "https://s3.amazonaws.com/closead/audio33.mp3",

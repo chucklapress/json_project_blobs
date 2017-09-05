@@ -1,7 +1,7 @@
 [
   {
     "uid": "urn:uuid:1335c695-cfb8-4ebb-abbd-80da344efa6b",
-    "updateDate": "2017-08-19T22:34:51.0Z",
+    "updateDate": "2017-09-04T00:03:00.0Z",
     "titleText": "Amazon Developer Blog, week in review May 23rd",
     "mainText": "opening ad",
     "streamUrl": "https://s3.amazonaws.com/openad/Bev+Alexa+line1+E2.mp3",
@@ -9,21 +9,28 @@
   },
   {
     "uid": "EXAMPLE_CHANNEL_MULTI_ITEM_JSON_TTS_2",
-    "updateDate": "2017-08-20T00:02:00.0Z",
+    "updateDate": "2017-09-04T00:03:01.0Z",
     "titleText": "Multi Item JSON (TTS)",
-    "mainText": "This channel has multiple TTS JSON items. This is the second item.",
+    "mainText": "This is the stubbed out space for todays's first story.",
     "redirectionUrl": "https://www.amazon.com"
   },
   {
     "uid": "EXAMPLE_CHANNEL_MULTI_ITEM_JSON_TTS_3",
-    "updateDate": "2017-08-20T00:03:00.0Z",
+    "updateDate": "2017-09-04T00:03:02.0Z",
     "titleText": "Multi Item JSON (TTS)",
-    "mainText": "This channel has multiple TTS JSON items. This is the third item.",
+    "mainText": "This is the space where you would enter today's second featured story.",
+    "redirectionUrl": "https://www.amazon.com"
+  },
+  {
+    "uid": "EXAMPLE_CHANNEL_MULTI_ITEM_JSON_TTS_4",
+    "updateDate": "2017-09-04T00:03:03.0Z",
+    "titleText": "Multi Item JSON (TTS)",
+    "mainText": "This is the spot for your third story.",
     "redirectionUrl": "https://www.amazon.com"
   },
   {
     "uid": "urn:uuid:1335c695-cfb8-4ebb-abbd-80da344efa6d",
-    "updateDate": "2017-08-20T00:04:00.0Z",
+    "updateDate": "2017-09-04T00:04:00.0Z",
     "titleText": "Closing ad",
     "mainText": "closing ad",
     "streamUrl": "https://s3.amazonaws.com/closead/Bev+Alexa+line4+E2.mp3",
