@@ -1,0 +1,18 @@
+[
+  {
+    "uid": "urn:uuid:1335c695-cfb8-4ebb-abbd-80da344efa7b",
+    "updateDate": "2017-09-07T00:03:00.0Z",
+    "titleText": "Dribbble Overtime podcast",
+    "mainText": "episode 20",
+    "streamUrl": "https://s3.amazonaws.com/dribbble-pods/dribbble2a.mp3",
+    "redirectionUrl": "https://dribbble.com/overtime"
+  },
+  {
+    "uid": "urn:uuid:1335c695-cfb8-4ebb-abbd-80da344efa7a",
+    "updateDate": "2017-09-06T00:04:00.0Z",
+    "titleText": "Dribbble Overtime podcast",
+    "mainText": "episode 19",
+    "streamUrl": "https://s3.amazonaws.com/dribbble-pods/dribbble1a.mp3",
+    "redirectionUrl": "https://dribbble.com/overtime"
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "uid": "urn:uuid:1335c695-cfb8-4ebb-abbd-80da344efa6w",
+    "updateDate": "2017-09-04T00:03:00.0Z",
+    "titleText": "Amazon Developer Blog, week in review May 23rd",
+    "mainText": "opening ad",
+    "streamUrl": "https://s3.amazonaws.com/openad/Bev+Alexa+line1+E2.mp3",
+    "redirectionUrl": "https://developer.amazon.com/public/community/blog"
+  },
+  {
+    "uid": "EXAMPLE_CHANNEL_MULTI_ITEM_JSON_TTS_22",
+    "updateDate": "2017-09-04T00:03:01.0Z",
+    "titleText": "Multi Item JSON (TTS)",
+    "mainText": "Husk Greenville to open in October. Construction at the long-anticipated restaurant on South Main Street in Greenville is well under way, as is hiring for the third Husk location to open in seven years. Husk’s chef and partner, Sean Brock, has hired Jon Buck from Husk Charleston as chef de cuisine of Husk Greenville!",
+    "redirectionUrl": "https://www.amazon.com"
+  },
+  {
+    "uid": "EXAMPLE_CHANNEL_MULTI_ITEM_JSON_TTS_33",
+    "updateDate": "2017-09-04T00:03:02.0Z",
+    "titleText": "Multi Item JSON (TTS)",
+    "mainText": "Duke Energy may ask for a South Carolina rate hike to recoup the costs of nixed nuclear plant. But big Upstate manufacturers stand ready to challenge Duke Energy if the Charlotte-based power company asks South Carolina regulators for permission to raise rates on its Upstate customers!",
+    "redirectionUrl": "https://www.amazon.com"
+  },
+  {
+    "uid": "EXAMPLE_CHANNEL_MULTI_ITEM_JSON_TTS_44",
+    "updateDate": "2017-09-04T00:03:03.0Z",
+    "titleText": "Multi Item JSON (TTS)",
+    "mainText": "Get ready to see orange barrels on I85 for a long time. The South Carolina Department of Transportation has a lot of work planned along Interstate 85 now that state lawmakers have given it $800 million more a year in funding. We expect the 85 corridor to be under construction for at least the next decade, says Christy Hall, South Carolina’s transportation secretary.",
+    "redirectionUrl": "https://www.amazon.com"
+  },
+  {
+    "uid": "urn:uuid:1335c695-cfb8-4ebb-abbd-80da344efa6x",
+    "updateDate": "2017-09-04T00:04:00.0Z",
+    "titleText": "Closing ad",
+    "mainText": "closing ad",
+    "streamUrl": "https://s3.amazonaws.com/closead/Bev+Alexa+line3+E2.mp3",
+    "redirectionUrl": "https://developer.amazon.com/public/community/blog"
+  }
+]

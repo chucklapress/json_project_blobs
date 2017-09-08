@@ -1,0 +1,39 @@
+[
+  {
+    "uid": "urn:uuid:1335c695-cfb8-4ebb-abbd-80da344efa6s",
+    "updateDate": "2017-09-04T00:03:00.0Z",
+    "titleText": "Amazon Developer Blog, week in review May 23rd",
+    "mainText": "opening ad",
+    "streamUrl": "https://s3.amazonaws.com/audiosecondapp/Bev+Alexa+line2+E2.mp3",
+    "redirectionUrl": "https://developer.amazon.com/public/community/blog"
+  },
+  {
+    "uid": "EXAMPLE_CHANNEL_MULTI_ITEM_JSON_TTS_21",
+    "updateDate": "2017-09-04T00:03:01.0Z",
+    "titleText": "Multi Item JSON (TTS)",
+    "mainText": "This is the first story",
+    "redirectionUrl": "https://www.amazon.com"
+  },
+  {
+    "uid": "EXAMPLE_CHANNEL_MULTI_ITEM_JSON_TTS_31",
+    "updateDate": "2017-09-04T00:03:02.0Z",
+    "titleText": "Multi Item JSON (TTS)",
+    "mainText": "Here is today's second story.",
+    "redirectionUrl": "https://www.amazon.com"
+  },
+  {
+    "uid": "EXAMPLE_CHANNEL_MULTI_ITEM_JSON_TTS_41",
+    "updateDate": "2017-09-04T00:03:03.0Z",
+    "titleText": "Multi Item JSON (TTS)",
+    "mainText": "Here is today's third story.",
+    "redirectionUrl": "https://www.amazon.com"
+  },
+  {
+    "uid": "urn:uuid:1335c695-cfb8-4ebb-abbd-80da344efa6t",
+    "updateDate": "2017-09-04T00:04:00.0Z",
+    "titleText": "Closing ad",
+    "mainText": "closing ad",
+    "streamUrl": "https://s3.amazonaws.com/closead/Bev+Alexa+line4+E2.mp3",
+    "redirectionUrl": "https://developer.amazon.com/public/community/blog"
+  }
+]

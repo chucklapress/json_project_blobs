@@ -1,0 +1,39 @@
+[
+  {
+    "uid": "urn:uuid:1335c695-cfb8-4ebb-abbd-80da344efa6s",
+    "updateDate": "2017-09-04T00:03:00.0Z",
+    "titleText": "Amazon Developer Blog, week in review May 23rd",
+    "mainText": "opening ad",
+    "streamUrl": "https://s3.amazonaws.com/audiosecondapp/Bev+Alexa+line2+E2.mp3",
+    "redirectionUrl": "https://developer.amazon.com/public/community/blog"
+  },
+  {
+    "uid": "EXAMPLE_CHANNEL_MULTI_ITEM_JSON_TTS_21",
+    "updateDate": "2017-09-04T00:03:01.0Z",
+    "titleText": "Multi Item JSON (TTS)",
+    "mainText": "Songwriter’s Recipe, 7 p.m. to 10:30 p.m. on Sept. 21 at Revel, 304 East Stone Avenue, Greenville, 29609. An intimate behind the scenes event featuring legendary songwriters and Grammy-award winning Tim Nichols, Lee Thomas Miller and Deric Ruttan. Hear the stories behind the songs you’ve been singing along to, straight from the mouths of the songwriters themselves. For more details and for more events, go to our website.",
+    "redirectionUrl": "https://www.amazon.com"
+  },
+  {
+    "uid": "EXAMPLE_CHANNEL_MULTI_ITEM_JSON_TTS_31",
+    "updateDate": "2017-09-04T00:03:02.0Z",
+    "titleText": "Multi Item JSON (TTS)",
+    "mainText": "Feast by the Field, noon to 4 p.m. Sept. 23 in the West End, corner of South Main and Markley Street. A true feast for the senses! From an expanded open-air Craft Beer Garden to multiple Culinary Demo Stages to a Grand Wine Tasting. Not to mention the unlimited samplings of delicious food and delectable cocktails from over 35 regional and local restaurants, purveyors, and distilleries. For more details visit our website.",
+    "redirectionUrl": "https://www.amazon.com"
+  },
+  {
+    "uid": "EXAMPLE_CHANNEL_MULTI_ITEM_JSON_TTS_41",
+    "updateDate": "2017-09-04T00:03:03.0Z",
+    "titleText": "Multi Item JSON (TTS)",
+    "mainText": "Big Easy Bash, 7 p.m. to 10 p.m. Sept. 23 at Trailblazer Park, Travelers Rest. New to euphoria this year, the Big Easy Bash will be a N’awlins-worthy party in the park, set to the rollicking music of a traditional New Orleans-style jazz band. So do as they do in the Big Easy, and let the good times roll. For more details and for more events, visit our website.",
+    "redirectionUrl": "https://www.amazon.com"
+  },
+  {
+    "uid": "urn:uuid:1335c695-cfb8-4ebb-abbd-80da344efa6t",
+    "updateDate": "2017-09-04T00:04:00.0Z",
+    "titleText": "Closing ad",
+    "mainText": "closing ad",
+    "streamUrl": "https://s3.amazonaws.com/closead/Bev+Alexa+line4+E2.mp3",
+    "redirectionUrl": "https://developer.amazon.com/public/community/blog"
+  }
+]
