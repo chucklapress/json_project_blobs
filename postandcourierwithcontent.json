@@ -1,7 +1,7 @@
 [
   {
-    "uid": "urn:uuid:1335c695-cfb8-4ebb-abbd-80da344efa6b",
-    "updateDate": "2017-09-04T00:03:00.0Z",
+    "uid": "urn:uuid:1335c695-cfb8-4ebb-abbd-80da344efa7a",
+    "updateDate": "2017-09-18T00:03:00.0Z",
     "titleText": "Amazon Developer Blog, week in review May 23rd",
     "mainText": "opening ad",
     "streamUrl": "https://s3.amazonaws.com/openad/Bev+Alexa+line1+E2.mp3",
@@ -9,28 +9,28 @@
   },
   {
     "uid": "EXAMPLE_CHANNEL_MULTI_ITEM_JSON_TTS_2",
-    "updateDate": "2017-09-04T00:03:01.0Z",
+    "updateDate": "2017-09-18T00:03:01.0Z",
     "titleText": "Multi Item JSON (TTS)",
-    "mainText": "Extremely dangerous Hurricane Irma is packing record winds and is now a bigger threat to South Carolina! Uncertainty over where Hurricane Irma is headed was intensified Wednesday morning by computer runs that shifted the track east, toward the Bahamas, the Southeast coast and potentially South Carolina! In Charleston, National Weather Service forecasters pointed out that the east shift in the computer runs was by no means certain! But it's becoming more certain the area will see significant impacts from the storm, the weather service said.",
+    "mainText": "This is the spot where the lead story of the day would be posted and read.",
     "redirectionUrl": "https://www.amazon.com"
   },
   {
     "uid": "EXAMPLE_CHANNEL_MULTI_ITEM_JSON_TTS_3",
-    "updateDate": "2017-09-04T00:03:02.0Z",
+    "updateDate": "2017-09-18T00:03:02.0Z",
     "titleText": "Multi Item JSON (TTS)",
-    "mainText": "Charleston area officials urge residents to begin planning for Hurricane Irma! Charleston County and local municipalities are taking steps to prepare for Irma, even though the storm's exact path remains unknown! Officials on Tuesday urged residents to begin making their plans for the storm!",
+    "mainText": "This is reserved for the second posting.",
     "redirectionUrl": "https://www.amazon.com"
   },
   {
     "uid": "EXAMPLE_CHANNEL_MULTI_ITEM_JSON_TTS_4",
-    "updateDate": "2017-09-04T00:03:03.0Z",
+    "updateDate": "2017-09-19T00:03:03.0Z",
     "titleText": "Multi Item JSON (TTS)",
-    "mainText": "Audit gives South Carolina lawmakers ammunition in failed nuclear plant probe! South Carolina lawmakers say they are ready to tackle findings of a newly released secret audit that detailed numerous problems with the expansion of a Fairfield County nuclear plant and confirmed their understanding that a lack of oversight doomed the $9 billion project!",
+    "mainText": "Another short piece occupies this area.",
     "redirectionUrl": "https://www.amazon.com"
   },
   {
-    "uid": "urn:uuid:1335c695-cfb8-4ebb-abbd-80da344efa6d",
-    "updateDate": "2017-09-04T00:04:00.0Z",
+    "uid": "urn:uuid:1335c695-cfb8-4ebb-abbd-80da344efa7w",
+    "updateDate": "2017-09-19T00:04:00.0Z",
     "titleText": "Closing ad",
     "mainText": "closing ad",
     "streamUrl": "https://s3.amazonaws.com/closead/Bev+Alexa+line3+E2.mp3",
