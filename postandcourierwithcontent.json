@@ -11,21 +11,23 @@
     "uid": "EXAMPLE_CHANNEL_MULTI_ITEM_JSON_TTS_2",
     "updateDate": "2017-09-18T00:03:01.0Z",
     "titleText": "Multi Item JSON (TTS)",
-    "mainText": "This is the spot where the lead story of the day would be posted and read.",
+    "mainText": "Sen. Graham presses for support for GOP health bill! Republican Sen. Lindsey Graham on Wednesday appealed for support from fellow senators for his health care bill despite its imperfections! We’re going to vote; everybody will be held accountable, Graham told broadcaster Sean Hannity! In related news, South Carolina Senator Tim Scott announced he will vote for Graham's Obamacare replacement!",
     "redirectionUrl": "https://www.amazon.com"
   },
   {
     "uid": "EXAMPLE_CHANNEL_MULTI_ITEM_JSON_TTS_3",
     "updateDate": "2017-09-18T00:03:02.0Z",
     "titleText": "Multi Item JSON (TTS)",
-    "mainText": "This is reserved for the second posting.",
+    "mainText": "Feds issue subpoena to SCANA regarding failed nuclear project! The U.S. Attorney's office in South Carolina has subpoenaed documents from SCANA Corp and its subsidiaries over the failed expansion of the V.C. Summer Nuclear Station, the company said Thursday! The subpoena requires the Company to produce a broad range of documents related to the project, SCANA said on its website. It also said the company intends to cooperate with the government's investigation!",
+
     "redirectionUrl": "https://www.amazon.com"
   },
   {
     "uid": "EXAMPLE_CHANNEL_MULTI_ITEM_JSON_TTS_4",
     "updateDate": "2017-09-19T00:03:03.0Z",
     "titleText": "Multi Item JSON (TTS)",
-    "mainText": "Another short piece occupies this area.",
+    "mainText": "C.V.B. takes on staffing crisis threatening Charleston's reputation for hospitality!
+Even though it’s recruiting culinary school graduates and food-and-beverage professionals across the country, the Charleston Area Convention and Visitors Bureau hasn’t yet solved the thorny problems of housing and transportation faced by people relocating for a restaurant job! So as a safeguard, the organization is now recruiting people who don’t have a background in the industry! Our goal is to put people to work where they live, said vice president of operations Laurie Lynn Smith!",
     "redirectionUrl": "https://www.amazon.com"
   },
   {
